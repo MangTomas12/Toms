@@ -1,24 +1,29 @@
-# 👋 Hi there, I'm Tom!  
-Hello 👋
-🌱 I’m currently learning **coding, photography, and design**  
-💻 I’m interested in **technology, gaming, and creative projects**  
-📸 I enjoy **photography** and editing with **Lightroom**  
-🎮 I also love playing and organizing **gaming events**  
-📚 I'm improving my skills in **programming and IT**  
+# 👋 Hello, World! I'm Tom  
+
+Welcome to my GitHub profile! 🎉  
+
+## 🌟 About Me  
+- 🌱 I’m currently learning **coding, IT, and photography**  
+- 💻 I enjoy working on **small coding projects and creative designs**  
+- 🎮 I love **gaming and creating fun projects in Roblox**  
+- 📸 Photography is also one of my passions  
 
 ---
 
-## 🚀 Skills I'm Learning
-- 💡 Programming (Java, Python, HTML/CSS, Lua for Roblox)  
-- 📷 Photography & Editing  
-- 🎨 Creative Design (Canva, Photoshop basics)  
+## 🚀 What I’m Learning  
+- Java ☕  
+- Python 🐍  
+- HTML & CSS 🌐  
+- Lua for Roblox 🎮  
+- Adobe Lightroom for editing 📷  
 
 ---
 
-## 📫 How to reach me
-- ✉️ Email: *Jozhtomas12@gmail.com*  
-- 🐦 Twitter/X: *@tom92640293*  
+## 📫 Let’s Connect  
+- 🐦 Twitter/X: [@tom92640293]  
+- ✉️ Email: [Jozhtomas12@gmail.com]  
 
 ---
 
-⭐️ Feel free to check out my projects and leave a star if you like them!  
+⭐ Thanks for stopping by my profile! Feel free to check out my projects and give them a star if you like them ⭐  
+
