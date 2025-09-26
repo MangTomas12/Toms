@@ -18,7 +18,6 @@
 ## 📫 How to reach me
 - ✉️ Email: *Jozhtomas12@gmail.com*  
 - 🐦 Twitter/X: *@tom92640293*  
-- 💼 LinkedIn: *[your profile link]*  
 
 ---
 
