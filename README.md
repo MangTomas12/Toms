@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Tom!  
-
+Hello 👋
 🌱 I’m currently learning **coding, photography, and design**  
 💻 I’m interested in **technology, gaming, and creative projects**  
 📸 I enjoy **photography** and editing with **Lightroom**  
