@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Tom  
+# 👋 Hello World! I'm Tom  
 
 Welcome to my GitHub profile! 🎉  
 
